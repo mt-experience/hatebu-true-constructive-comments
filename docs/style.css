@@ -1,0 +1,18 @@
+body{
+  width:90%;
+  margin-right: auto;
+  margin-left : auto;
+}
+
+input{
+	width:80%;
+}
+
+button{
+	width:70%;
+	text-align: left
+}
+
+textarea{
+	width:60%;
+}
